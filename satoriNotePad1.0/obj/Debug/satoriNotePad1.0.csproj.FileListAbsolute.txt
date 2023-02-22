@@ -1,0 +1,13 @@
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\bin\Debug\satoriNotePad1.0.exe.config
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\bin\Debug\satoriNotePad1.0.exe
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\bin\Debug\satoriNotePad1.0.pdb
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.csproj.AssemblyReference.cache
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1._0.Form1.resources
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1._0.Properties.Resources.resources
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.csproj.GenerateResource.cache
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.csproj.CoreCompileInputs.cache
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.exe
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1.0.pdb
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1._0.Form2.resources
+C:\Users\ikoma\source\repos\satoriNotePad1.0\satoriNotePad1.0\obj\Debug\satoriNotePad1._0.Form3.resources
